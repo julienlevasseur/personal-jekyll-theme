@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Title
 category: tech
-tags: [ 'terrform', 'module registry' ]
+tags: [ 'terraform' ]
 ---
 
 An awesome feature of Terraform is <a href="https://www.terraform.io/docs/modules/index.html">modules</a>.
